@@ -1,4 +1,4 @@
-# serverProyect_isw
+# CloudContacts (Agenda de Contactos en la Nube)
 
 Instalación del entorno y creación de la estructura del proyecto Flask:
 sudo apt update && sudo apt upgrade -y
